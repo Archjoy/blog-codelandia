@@ -58,13 +58,14 @@ input{
 
 #conteudo{
    display: grid;
-   gap: 20px;
+   gap: 40px;
    align-items: center;
    justify-content: center;
     height: auto;
     width: 100%;
     background: #fff;
-    padding: 135px;
+    padding:100px;
+   
 
 }
 #conteudo p{
